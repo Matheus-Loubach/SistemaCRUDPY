@@ -15,5 +15,5 @@ https://user-images.githubusercontent.com/34719454/198189924-2d7a61f9-5951-40fe-
 
 
 Executar no terminal:
-1 - cd SistemaPy
-2 - python main.py
+- 1 cd SistemaPy
+- 2 python main.py
